@@ -14,8 +14,8 @@ public class Main {
 
         System.out.println("creating chrome driver");
 
-        String email = "tyler.polny.developer@gmail.com";
-        String password = "Ferret^2001";
+        String email = "INDEED EMAIL LOGIN";
+        String password = "INDEED PASSWORD";
         String jobTitle = "back end developer -Engineer -Senior -ruby -Android -WordPress -stack $40,000 - $90,000";
         String jobLocation = "remote";
 
